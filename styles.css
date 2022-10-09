@@ -80,7 +80,7 @@ p {
   margin: 30px;
 }
 
-id="contact", .email-link {
+  .email-link {
   display: flex;
   justify-content: center;
   color: var(--primary-color);
