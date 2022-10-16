@@ -112,3 +112,8 @@ p {
 .img-fluid {
   margin-bottom: 30px;
 }
+.img-fluid rounded{
+  color: #f5dff6;
+   box-shadow: var(--box-shadow);
+  border-radius: 12px;
+}
