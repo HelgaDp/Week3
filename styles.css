@@ -105,7 +105,7 @@ p {
   text-decoration: none;
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
-  color: white;
+  color: #f3d7f4;
 }
 .app-descripton {
   display: block;
