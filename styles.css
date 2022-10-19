@@ -7,7 +7,7 @@ body {
 :root {
   --primary-color: #9400d3;
   --secondary-color: #f3d7f4;
-  --box-shadow: 0 5px 10px #f5dff6;
+ 
    --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
